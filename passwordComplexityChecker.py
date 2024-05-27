@@ -1,6 +1,3 @@
-'''
-TASK 01 ByteUprise
-'''
 import re
 def check_password_complexity(password):
     length_criteria = len(password) >= 8
